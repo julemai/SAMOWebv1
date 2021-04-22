@@ -1,0 +1,11 @@
+---
+title: "SAMO 2022 Announced!"
+author: "William Becker"
+date: 2021-04-22T21:13:14-05:00
+categories: ["Events"]
+tags: ["SAMO2022", "Conferences"]
+---
+
+Abstract submission is now open for SAMO 2022! The conference will be held at Florida State University, Tallahassee, Florida. The dates of the conference are March 14 -16, 2022. The venue is Florida State Conference Center.
+
+For more information, visit the [conference website](https://samo2022.math.fsu.edu/). We look forward to seeing you in Florida!
