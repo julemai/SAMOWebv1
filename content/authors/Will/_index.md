@@ -1,7 +1,7 @@
 ---
 authors:
 - William Becker
-bio: My research interests include dogs and ca.
+bio: My research interests include dogs and cats.
 education:
   courses:
   - course: PhD in Artificial Intelligence
