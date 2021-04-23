@@ -5,7 +5,7 @@ author_notes:
 - Equal contribution
 authors:
 - William Becker
-- Robert Ford
+- Samuele Lo Piano
 date: "2021-03-01"
 doi: "https://doi.org/10.1016/j.envsoft.2020.104954"
 featured: true

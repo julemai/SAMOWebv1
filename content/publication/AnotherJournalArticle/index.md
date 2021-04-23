@@ -10,7 +10,7 @@ date: "2021-03-01"
 doi: "https://doi.org/10.1016/j.envsoft.2020.104954"
 featured: true
 image:
-  caption: 'Challenges and outlook of sensitivity analysis'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -34,8 +34,8 @@ url_source: ""
 url_video: ""
 ---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Let's try something:
-
-$$ E = mc^2 $$

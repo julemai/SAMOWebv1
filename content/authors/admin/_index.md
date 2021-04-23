@@ -1,45 +1,38 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have spent the last nine years working at the European Commission’s Joint Research Centre. My work involves research and policy-related work related to composite indicators and international data analysis, as well as uncertainty and sensitivity analysis in computer models and nonlinear systems. This has led me to work on very diverse topics, from international connectivity, sustainable development, and monitoring European spending programmes, to econometrics, biomechanics and engineering.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
+  - course: PhD in Mechanical Engineering
+    institution: University of Sheffield, UK
+    year: 2011
+email: "william.becker@bluefoxdata.eu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sensitivity analysis
+- Uncertainty analysis
+- Machine learning
+- Composite indicators
+- Statistical programming
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Bluefox data
+  url: "https://www.bluefoxdata.eu"
+role: Co-president of SAMO
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:william.becker@bluefoxdata.eu
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/William-Becker-7
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Vvu9K9YAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-superuser: true
-title: Nelson Bighetti
+  link: https://github.com/bluefoxr
+superuser: false
+title: William Becker
 user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+William Becker is a researcher in sensitivity analysis.
