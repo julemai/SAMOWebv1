@@ -18,7 +18,7 @@ publication: 'Reliability Engineering and System Safety (210)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-06-01"
+publishDate: "2021-03-01"
 slides: null
 summary: Review of randomised QMC in sensitivity analysis
 tags:
