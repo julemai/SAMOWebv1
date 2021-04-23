@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Giray Ökten
 user_groups:
-- Researchers
+- Executive Committee
 ---
 
 # Computational Finance

@@ -31,7 +31,7 @@ social:
 superuser: false
 title: Samuele Lo Piano
 user_groups:
-- Researchers
+- Executive Committee
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-bio: I have spent the last nine years working at the European Commission’s Joint Research Centre. My work involves research and policy-related work related to composite indicators and international data analysis, as well as uncertainty and sensitivity analysis in computer models and nonlinear systems. This has led me to work on very diverse topics, from international connectivity, sustainable development, and monitoring European spending programmes, to econometrics, biomechanics and engineering.
+bio: I am an independent consultant in international data analysis and statistics, and a researcher in sensitivity analysis, as well as other fields.
 education:
   courses:
   - course: PhD in Mechanical Engineering
@@ -32,7 +32,7 @@ social:
 superuser: false
 title: William Becker
 user_groups:
-- Researchers
+- Executive Committee
 ---
 
-William Becker is a researcher in sensitivity analysis.
+I have spent the last nine years working at the European Commission’s Joint Research Centre. My work involves research and policy-related work related to composite indicators and international data analysis, as well as uncertainty and sensitivity analysis in computer models and nonlinear systems. This has led me to work on very diverse topics, from international connectivity, sustainable development, and monitoring European spending programmes, to econometrics, biomechanics and engineering.

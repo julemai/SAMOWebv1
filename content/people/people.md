@@ -1,8 +1,8 @@
 ---
 content:
   user_groups:
-  - Principal Investigators
-  - Researchers
+  - Executive Committee
+  - Scientific Committee
   - Grad Students
   - Administration
   - Visitors

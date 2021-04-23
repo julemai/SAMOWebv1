@@ -4,7 +4,7 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Giray Ökten
+- Giray
 - Yaning Liu
 date: "2021-04-23"
 doi: "https://doi.org/10.1016/j.ress.2021.107520"
