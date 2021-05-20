@@ -3,6 +3,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 authors:
 - Giray
 - Samuele
+- William
 date: "2019-04-07T00:00:00Z"
 doi: ""
 featured: false
