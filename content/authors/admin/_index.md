@@ -17,6 +17,9 @@ organizations:
   url: "https://www.bluefoxdata.eu"
 role: Co-president of SAMO
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://www.willbecker.me/
 - icon: envelope
   icon_pack: fas
   link: mailto:william.becker@bluefoxdata.eu
