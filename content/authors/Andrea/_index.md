@@ -5,11 +5,11 @@ bio: Works on Sensitivity analysis, sensitivity auditing, impact assessment, sci
 email: "andrea.saltelli@gmail.com"
 organizations:
 - name: Centre for the Study of the Sciences and the Humanities, University of Bergen, Norway
-url:https://www.uib.no/en/persons/Andrea.Saltelli
+  url: "https://www.uib.no/en/persons/Andrea.Saltelli"
 - name: Institute for Cognitive Sciences and Technologies of the Italian National Research Council (CNR), Roma, Italy
-url: https://www.istc.cnr.it/en/people/andrea-saltelli
+  url: "https://www.istc.cnr.it/en/people/andrea-saltelli"
 - name: UPF Barcelona School of Management, Barcelona, Spain. 
-url: https://www.bsm.upf.edu/es/profesorado-investigacion/profesorado#andrea-saltelli
+  url: "https://www.bsm.upf.edu/es/profesorado-investigacion/profesorado#andrea-saltelli"
 - name: University of Reading
   url: "https://www.creds.ac.uk/people/samuele-lo-piano/"
 social:
