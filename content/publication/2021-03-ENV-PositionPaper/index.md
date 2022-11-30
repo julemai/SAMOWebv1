@@ -1,11 +1,16 @@
 ---
 abstract: Sensitivity analysis (SA) is en route to becoming an integral part of mathematical modeling. The tremendous potential benefits of SA are, however, yet to be fully realized, both for advancing mechanistic and data-driven modeling of human and natural systems, and in support of decision making. In this perspective paper, a multidisciplinary group of researchers and practitioners revisit the current status of SA, and outline research challenges in regard to both theoretical frameworks and their applications to solve real-world problems. Six areas are discussed that warrant further attention, including (1) structuring and standardizing SA as a discipline, (2) realizing the untapped potential of SA for systems modeling, (3) addressing the computational burden of SA, (4) progressing SA in the context of machine learning, (5) clarifying the relationship and role of SA to uncertainty quantification, and (6) evolving the use of SA in support of decision making. An outlook for the future of SA is provided that underlines how SA must underpin a wide variety of activities to better serve science and society.
-author_notes:
-- Equal contribution
-- Equal contribution
 authors:
-- admin
+- Saman
+- Tony
+- Andrea
+- Clementine
+- Bertand
+- Emanuele
 - Samuele
+- admin
+- Stefano
+- Sergei
 date: "2021-03-01"
 doi: "https://doi.org/10.1016/j.envsoft.2020.104954"
 featured: true
@@ -34,8 +39,4 @@ url_source: ""
 url_video: ""
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Let's try something:
-
-$$ E = mc^2 $$
+This position paper was written collaboratively by many of the top authors in the field of sensitivity analysis. It lays out the state of sensitivity analysis and looks to the future of the field.
