@@ -10,7 +10,9 @@ education:
 email: "s.lopiano@reading.ac.uk"
 interests:
 - Sensitivity analysis
-- Organising conferences
+- Uncertainty analysis
+- Energy modelling
+- Sensitivity auditing
 organizations:
 - name: University of Reading
   url: "https://www.creds.ac.uk/people/samuele-lo-piano/"
@@ -35,7 +37,7 @@ user_groups:
 
 ---
 
-Samuele is a PostDoctoral researcher at the School of the Built Environment, University of Reading. His research in CREDS encompasses:
+Samuele is a researcher at the School of the Built Environment, University of Reading. His research in CREDS encompasses:
 
 * the modelling of energy demand in Greater London;
 * taking stock of the literature produced on flexibility in energy demand and its technological and social dimensions.
