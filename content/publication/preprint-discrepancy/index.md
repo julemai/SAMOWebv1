@@ -1,8 +1,8 @@
 ---
-While Sensitivity Analysis (SA) improves the transparency and reliability of mathematical models, its uptake by modelers is still scarce. This is partially explained by its technical requirements, which may be hard to decipher and interpret for the non-specialist. Here we draw on the concept of discrepancy and propose a sensitivity measure that is as easy to understand as the visual inspection of input-output scatterplots. Numerical experiments on classic SA functions and on meta-models suggest that the symmetric L2 discrepancy measure is able to rank the most influential parameters almost as accurately as the variance-based total sensitivity index, one of the most established global sensitivity measures.
+Abstract: While Sensitivity Analysis (SA) improves the transparency and reliability of mathematical models, its uptake by modelers is still scarce. This is partially explained by its technical requirements, which may be hard to decipher and interpret for the non-specialist. Here we draw on the concept of discrepancy and propose a sensitivity measure that is as easy to understand as the visual inspection of input-output scatterplots. Numerical experiments on classic SA functions and on meta-models suggest that the symmetric L2 discrepancy measure is able to rank the most influential parameters almost as accurately as the variance-based total sensitivity index, one of the most established global sensitivity measures.
 authors:
 - Arnald Puy
-- Andrea Saltelli
+- Andrea
 date: "2019-04-07T00:00:00Z"
 doi: ""
 featured: false
