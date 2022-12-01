@@ -5,7 +5,7 @@ authors:
 - Tony
 - Andrea
 - Clementine
-- Bertand
+- Bertrand
 - Emanuele
 - Samuele
 - admin
