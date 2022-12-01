@@ -14,7 +14,7 @@ interests:
 organizations:
 - name: Florida State University
   url: "https://www.math.fsu.edu/People/faculty.php?u=okten"
-role: President of SAMO, Associate Chair for Graduate Studies / Director of Financial Mathematics & Professor
+role: Co-president
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,6 +29,7 @@ superuser: false
 title: Giray Ökten
 user_groups:
 - Executive Committee
+- Scientific Committee
 ---
 
 # Computational Finance

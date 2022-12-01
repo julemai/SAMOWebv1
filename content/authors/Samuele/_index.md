@@ -16,7 +16,6 @@ interests:
 organizations:
 - name: University of Reading
   url: "https://www.creds.ac.uk/people/samuele-lo-piano/"
-role: Co-president of SAMO
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,7 +32,7 @@ social:
 superuser: false
 title: Samuele Lo Piano
 user_groups:
-- Executive Committee
+- Scientific Committee
 
 ---
 
