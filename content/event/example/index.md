@@ -20,7 +20,7 @@ location: Florida State Conference Center
 projects: null
 publishDate: "2021-04-23"
 slides: null
-summary: Abstract submission is now open!
+summary: The conference was held in Tallahassee, Florida on 14th-16th March 2022
 tags: []
 title: 10th SAMO conference
 url_code: ""

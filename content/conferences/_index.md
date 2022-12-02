@@ -2,15 +2,29 @@
 header:
   caption: ""
   image: "conference_stock.jpg"
-title: Past Conferences
+title: Conferences
 view: 2
 ---
 
 The SAMO (Sensitivity Analysis of Model Output) conferences are cross-disciplinary conferences, held every three years, related to the fields of sensitivity analysis, design of experiments, model calibration and validation issues, structural reliability, uncertainty quantification, and related application areas (engineering, environment, agronomy, finance, etc.).
 
+This page gives a full list of past and upcoming SAMO conferences, with links to any resources that are still available.
+
+## :rotating_light: **UPCOMING** :rotating_light: 2025 Grenoble
+
+The next SAMO conference will be held in 2025 in Grenoble, France.
+
+<a title="Shan Zhao, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:City_of_Grenoble.jpg"><img width="1200" alt="City of Grenoble" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/City_of_Grenoble.jpg/512px-City_of_Grenoble.jpg"></a>
+
+* :pushpin: **Location**: Grenoble, France
+* :house: **Host Institution**: Université Grenoble Alpes
+* :date: **Date**: April 2025
+
+# Past conferences
+
 ## 2022 Florida
 
-![Florida](2022-florida.jpg)
+![Florida](2022-florida2.jpg)
 
 * :pushpin: **Location**: Tallahassee, Florida, USA
 * :house: **Host Institution**: Florida State University
@@ -19,6 +33,8 @@ The SAMO (Sensitivity Analysis of Model Output) conferences are cross-disciplina
 
 ## 2019 Barcelona
 
+![Barcelona](2019-barcelona2.jpg)
+
 * :pushpin: **Location**: Barcelona, Spain
 * :house: **Host Institution**: Universitat Oberta de Catalunya
 * :date: **Date**: Oct 28th - Oct 30th 2019
@@ -26,12 +42,16 @@ The SAMO (Sensitivity Analysis of Model Output) conferences are cross-disciplina
  
 ## 2016 La Réunion
 
+![Reunion](2016-reunion2.jpg)
+
 * :pushpin: **Location**: Le Tampon, La Réunion, France
 * :house: **Host Institution**: University of Reunion Island
 * :date: **Date**: Nov 30th - Dec 3rd 2016
 * :link: **Links**: [Website](https://samo2016.univ-reunion.fr/) | [Proceedings](http://www.andreasaltelli.eu/file/repository/Proceedings_SAMO_2016.pdf)
 
 ## 2013 Nice
+
+![Reunion](2013-nice.jpg)
 
 * :pushpin: **Location**: Nice, France
 * :house: **Host Institution**: University of Nice

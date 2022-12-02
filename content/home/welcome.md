@@ -18,3 +18,5 @@ advanced:
 ---
 
 SAMO (Sensitivity Analysis for Model Output) is an interdisciplinary group of academics and organisations that coordinate and promote research on sensitivity analysis. In particular, SAMO organises the International SAMO Conference every three years.
+
+[Find out more](/about).

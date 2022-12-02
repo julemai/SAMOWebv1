@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "SAMO is a network of researchers promoting research into sensitivity analysis and related fields."
 
 ############################
 ## Site Features

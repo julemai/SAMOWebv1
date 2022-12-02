@@ -32,3 +32,13 @@
   name = "Conferences"
   url = "conferences"
   weight = 25
+
+[[main]]
+  name = "About"
+  url = "about"
+  weight = 60
+
+[[main]]
+  name = "Resources"
+  url = "resources"
+  weight = 55
