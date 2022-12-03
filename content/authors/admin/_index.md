@@ -36,7 +36,7 @@ superuser: false
 title: William Becker
 user_groups:
 - Scientific Committee
-- Communications Committee
+- Communication Committee
 ---
 
 I have spent the last nine years working at the European Commission’s Joint Research Centre. My work involves research and policy-related work related to composite indicators and international data analysis, as well as uncertainty and sensitivity analysis in computer models and nonlinear systems. This has led me to work on very diverse topics, from international connectivity, sustainable development, and monitoring European spending programmes, to econometrics, biomechanics and engineering.

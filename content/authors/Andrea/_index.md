@@ -24,6 +24,7 @@ superuser: false
 title: Andrea Saltelli 
 user_groups:
 - Scientific Committee
+- Communication Committee
 
 ---
 

@@ -38,7 +38,7 @@ The next SAMO conference will be held in 2025 in Grenoble, France.
 * :pushpin: **Location**: Barcelona, Spain
 * :house: **Host Institution**: Universitat Oberta de Catalunya
 * :date: **Date**: Oct 28th - Oct 30th 2019
-* :link: **Links**: [Website](https://symposium.uoc.edu/23220/detail/ninth-international-conference-on-sensitivity-analysis-of-model-output.html)
+* :link: **Links**: [Website](https://symposium.uoc.edu/23220/detail/ninth-international-conference-on-sensitivity-analysis-of-model-output.html) | [Proceedings](Proceedings_SAMO_2019.pdf)
  
 ## 2016 La Réunion
 
@@ -63,7 +63,7 @@ The next SAMO conference will be held in 2025 in Grenoble, France.
 * :pushpin: **Location**: Milan, Italy
 * :house: **Host Institution**: Università Bocconi
 * :date: **Date**: July 19th - July 22nd 2010
-* :link: **Links**: [Website](https://www.unibocconi.it/wps/wcm/connect/1792da004cadb82c93daff0f7bdc7be0/Programma_samo.pdf1?MOD=AJPERES)
+* :link: **Links**: [Website](https://www.unibocconi.it/wps/wcm/connect/1792da004cadb82c93daff0f7bdc7be0/Programma_samo.pdf1?MOD=AJPERES) | [Proceedings](https://1drv.ms/u/s!ArKkbDuzxdxCjrxGzcxlv3PJ2AEK_g?e=DkV7uR)
 
 ## 2007 Budapest
 
