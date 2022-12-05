@@ -1,12 +1,31 @@
 ---
-bio: Stefano Tarantola is a Scientific Officer at the Joint Research Centre of the European Commission.
-email: "email@email.com"
+bio: Since 1996, Stefano works at Joint Research Centre of the European Commission. Until 2015, Stefano worked in the field of sensitivity analysis, where he published 80 papers in the peer-reviewed literature. Then he moved to the Directorate for Energy, Transport and Climate where he conducts pre-normative research in the field of interoperability of smart grids and electric vehicles, and manages a living lab for testing digital energy solutions.
+education:
+  courses:
+  - course: PhD in Nuclear Engineering
+    institution: Polytechnic of Milan, Italy
+    year: 1996
+email: "Stefano.tarantola@ec.europa.eu"
 interests:
-- Sensitivity analysis
+- Traveling
+- Hands-on works
 organizations:
-- name: SAMO
-  url: "https://samo2022.math.fsu.edu/"
+- name: Joint Research Centre
+  url: https://ses.jrc.ec.europa.eu/contact/tarantola
 superuser: false
+social:
+- icon: globe
+  icon_pack: fas
+  link: https://ses.jrc.ec.europa.eu/contact/tarantola
+- icon: envelope
+  icon_pack: fas
+  link: mailto:Stefano.tarantola@ec.europa.eu
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Stefano-Tarantola
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=5P31OxgAAAAJ
 title: Stefano Tarantola
 user_groups:
 - Scientific Committee

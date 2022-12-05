@@ -13,9 +13,8 @@ interests:
 - Composite indicators
 - Statistical programming
 organizations:
-- name: Bluefox data
-  url: "https://www.bluefoxdata.eu"
-role: Co-president of SAMO
+- name: Freelance data scientist
+  url: "https://www.willbecker.me/"
 social:
 - icon: globe
   icon_pack: fas
