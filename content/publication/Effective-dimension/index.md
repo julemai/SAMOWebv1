@@ -29,14 +29,7 @@ summary: Trying discrepancy in the x-y plabe as a sensitivity measure.
 tags:
 - Source Themes
 title:  Effective Dimensions Tend to Produce More Uncertain Estimates’. Science Advances 8 (eabn9450).
-url_code: '#'
-url_dataset: '#'
 url_pdf: https://www.science.org/doi/10.1126/sciadv.abn9450
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
 ---
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
