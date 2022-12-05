@@ -10,9 +10,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
 projects:
 - internal-project
 publication: ""
@@ -25,14 +22,7 @@ summary: Trying discrepancy in the x-y plabe as a sensitivity measure.
 tags:
 - Source Themes
 title: Discrepancy measures for sensitivity analysis in mathematical modeling
-url_code: '#'
-url_dataset: '#'
 url_pdf: https://arxiv.org/abs/2206.13470
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
 ---
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
