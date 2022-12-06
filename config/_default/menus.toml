@@ -36,7 +36,7 @@
 [[main]]
   name = "About"
   url = "about"
-  weight = 60
+  weight = 5
 
 [[main]]
   name = "Resources"
