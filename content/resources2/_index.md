@@ -23,6 +23,8 @@ Software packages and addons that are useful for performing sensitivity analysis
 
 The following references give a good guide to sensitivity analysis and related topics.
 
+:book: Saltelli, A., Ratto, M., Andres, T., Campolongo, F., Cariboni, J., Gatelli, D. Saisana, M., Tarantola, S., 2008, [Global Sensitivity Analysis. The Primer](https://www.wiley.com/en-us/Global+Sensitivity+Analysis%3A+The+Primer-p-9780470725177), John Wiley & Sons publishers.
+
 :book: S. Da Veiga, F. Gamboa, B. Iooss and C. Prieur. [Basics and trends in sensitivity analysis](https://doi.org/10.1137/1.9781611976694) - Theory and practice in R, SIAM, 2021. 
 
 :book: [Interpretability for Industry 4.0: Statistical and Machine Learning Approaches](https://link.springer.com/referencework/10.1007/978-3-319-12385-1), A. Lepore, B. Palumbo and J-M. Poggi (Eds), Springer, 2022
