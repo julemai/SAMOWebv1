@@ -41,5 +41,23 @@ The following references give a good guide to sensitivity analysis and related t
 
 :book: [Proceedings of SAMO 1995, Belgirate, Italy](../proceedings/PROCEEDINGS_SAMO_95_Belgirate.pdf)
 
+:book: [Proceedings of SAMO 1998, Venice Ca' Dolfin, Italy](../proceedings/PROCEEDINGS_SAMO_1998_Venice.pdf)
 
+:book: [Proceedings of SAMO 2001, Madrid, Spain](../proceedings/PROCEEDINGS_SAMO_2001_Madrid.pdf)
+
+:book: [Proceedings of SAMO 2004, Santa Fè, US](../proceedings/PROCCEDINGS_SAMO_2004_SantaFe.pdf)
+
+:book: [Proceedings of SAMO 2007, Budapest, Hungary](../proceedings/PROCEEDINGS_SAMO_2007_Budapest.pdf)
+
+:book: [Proceedings of SAMO 2010, Milan, Italy](../proceedings/PROCEEDINGS_SAMO_2010_Milano.zip)
+
+:book: [Proceedings of SAMO 2013, Nice, France - oral](../proceedings/PROCEEDINGS_SAMO_2013_Nice_oral_proceedings.pdf)
+
+:book: [Proceedings of SAMO 2013, Nice, France - posters](../proceedings/PROCEEDINGS_SAMO_2013_Nice_poster_proceedings.pdf)
+
+:books: [Proceedings of SAMO 2013, Nice, France - PhD works](../proceedings/PROCEEDINGS_SAMO_2013_Nice_phd_proceedings.pdf)
+
+:book: [Proceedings of SAMO 2016, La Reunion, France](../proceedings/Proceedings_SAMO_2016_La_Reunion.pdf)
+
+:book: [Proceedings of SAMO 2019, Barcelona, Spain](../proceedings/Proceedings_SAMO_2019_Barcelona.pdf)
 
