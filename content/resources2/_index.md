@@ -37,7 +37,7 @@ The following references give a good guide to sensitivity analysis and related t
 
 :link: [andreasaltelli.eu](http://www.andreasaltelli.eu/) is the personal page of veteran sensitivity analysis researcher Andrea Saltelli, and hosts many useful resources (inlcuding books) on sensitivity analysis.
 
-## Proceedings of SAMO conferences  
+## Proceedings of SAMO conferences
 
 :book: [Proceedings of SAMO 1995, Belgirate, Italy](../proceedings/PROCEEDINGS_SAMO_95_Belgirate.pdf)
 
