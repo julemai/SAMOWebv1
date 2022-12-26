@@ -19,6 +19,8 @@ Software packages and addons that are useful for performing sensitivity analysis
 
 :computer: [SIML@B](https://web.jrc.ec.europa.eu/rapps/pub/simlab/) provides a set of online tools to perform uncertainty analysis and sensitivity analysis (UASA) of model output.
 
+:computer: [sensobol](https://www.jstatsoft.org/index.php/jss/article/view/v102i05/4276)An R Package to Compute Variance-Based Sensitivity Indices
+
 ## Books
 
 The following references give a good guide to sensitivity analysis and related topics.
