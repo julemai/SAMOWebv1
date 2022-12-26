@@ -21,6 +21,9 @@ Software packages and addons that are useful for performing sensitivity analysis
 
 :computer: [sensobol](https://www.jstatsoft.org/article/view/v102i05/), An R Package to Compute Variance-Based Sensitivity Indices
 
+:computer: [SALib](https://salib.readthedocs.io/en/latest/), includes Sobol’, FAST, DGSM, PAWN, moment independent.
+
+
 ## Books
 
 The following references give a good guide to sensitivity analysis and related topics.
