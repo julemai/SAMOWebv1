@@ -1,41 +1,32 @@
 ---
-bio: Short bio to add
+bio: "In 2014, after 6 years’ study for my PhD and Post-doc in France, I returned to work in China as full-time associate professor at Institute of Precision Measurement Science and Technology Innovation of the Chinese Academy of Sciences (APM of CAS, the former Wuhan Institute of Physics and Mathematics). The APM is featured by its research excellence in mathematics physics and its application. My research interest includes applied statistics, mathematical modelling and sensitivity analysis. My work covers theoretical algorithm development, methodology design and applications."
 education:
   courses:
-  - course: PhD in SA
-    institution: University of ?, Earth
-    year: 2000
-email: "email@email.com"
+  - course: PhD
+    institution: Ecole Centrale Paris, Lab MAS (Applied Mathematics on Systems)
+    year: 2012
+email: "wuqiongli@apm.ac.cn"
 interests:
+- Applied statistics
+- Mathematical modelling
 - Sensitivity analysis
-- Completing profiles
 organizations:
-- name: SAMO
-  url: "https://samo2022.math.fsu.edu/"
-role: MIA
+- name: Institute of Precision Measurement Science and Technology Innovation of the Chinese Academy of Sciences (APM of CAS)
+  url: "http://www.apm.ac.cn/"
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://samo2022.math.fsu.edu/
 - icon: envelope
   icon_pack: fas
-  link: mailto:email@email.com
+  link: mailto:wuqiongli@apm.ac.cn
 - icon: researchgate
   icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: github
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
-- icon: twitter
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
+  link: https://www.researchgate.net/profile/Qiongli-Wu
 superuser: false
 title: Qiongli Wu
 user_groups:
 - Scientific Committee
 ---
 
-Longer bio to add.
+I have a doctorate degree in Information Science from Wuhan University of China and another doctorate degree in Applied Mathematics from Ecole Centrale Paris of France. In 2014, after 6 years studied for my PhD and Post-doc in France, I returned to work in China as full-time associate professor at Institute of Precision Measurement Science and Technology Innovation of the Chinese Academy of Sciences (APM of CAS, the former Wuhan Institute of Physics and Mathematics). The APM is featured by its research excellence in mathematics physics and its application. My research interest includes applied statistics, mathematical modelling and sensitivity analysis. My work covers theoretical algorithm development, methodology design and applications.
+
+My PhD and post-doc experience gave her an excellent environment to develop cutting edge techniques for mathematical modelling and, more generally, about model design, both from theoretical and applicative perspectives. I have authored/co-authored over 30 international scientific papers. I am also a committee member and reviewer of over 10 international journals, including Computer & Mathematics with Applications, Ecological modelling, etc. I am now leading a group of “Data analysis and statistical computation” in APM of CAS. My research group focus the research on applied mathematics/statistics. 
+
