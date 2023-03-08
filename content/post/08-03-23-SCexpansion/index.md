@@ -1,5 +1,5 @@
 ---
-date: "2023-08-03"
+date: "2023-03-08"
 title: New members of the Scientific Committee
 author: admin
 ---
