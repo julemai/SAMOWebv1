@@ -12,7 +12,10 @@ This page gives a full list of past and upcoming SAMO conferences, with links to
 
 ## :rotating_light: **UPCOMING** :rotating_light: 2025 Grenoble
 
-The next SAMO conference will be held in 2025 in Grenoble, France.
+The next SAMO conference will be held in April 23-25, 2025 in
+Grenoble, France. A satellite event for PhD students (<a
+href="https://www.gdr-mascotnum.fr/" target="_blank" rel="noopener">MASCOT NUM</a> PhD day) will be
+organized on April 22, 2025 also in Grenoble.</p>
 
 <a title="Shan Zhao, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:City_of_Grenoble.jpg"><img width="1200" alt="City of Grenoble" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/City_of_Grenoble.jpg/512px-City_of_Grenoble.jpg"></a>
 
@@ -39,7 +42,7 @@ The next SAMO conference will be held in 2025 in Grenoble, France.
 * :house: **Host Institution**: Universitat Oberta de Catalunya
 * :date: **Date**: Oct 28th - Oct 30th 2019
 * :link: **Links**: [Website](https://symposium.uoc.edu/23220/detail/ninth-international-conference-on-sensitivity-analysis-of-model-output.html) | [Proceedings](Proceedings_SAMO_2019.pdf)
- 
+
 ## 2016 La Réunion
 
 ![Reunion](2016-reunion2.jpg)
@@ -82,7 +85,7 @@ The next SAMO conference will be held in 2025 in Grenoble, France.
 ## 2001 Madrid
 
 * :pushpin: **Location**: Madrid, Spain
-* :house: **Host Institution**: 
+* :house: **Host Institution**:
 * :date: **Date**: June 18th - June 20th 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_2001_Madrid.pdf)
 
@@ -99,4 +102,3 @@ The next SAMO conference will be held in 2025 in Grenoble, France.
 * :house: **Host Institution**: European Commision, Joint Research Centre
 * :date: **Date**: 25th Sep - 27th Sep
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_95_Belgirate.pdf)
-

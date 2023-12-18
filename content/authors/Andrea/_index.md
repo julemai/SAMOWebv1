@@ -1,6 +1,6 @@
 ---
 authors:
-- Andrea Saltelli 
+- Andrea Saltelli
 bio: Works on Sensitivity analysis, sensitivity auditing, impact assessment, science integrity, sociology of quantification, science and lobbies,  science and post truth....
 email: "andrea.saltelli@gmail.com"
 organizations:
@@ -8,7 +8,7 @@ organizations:
   url: "https://www.uib.no/en/persons/Andrea.Saltelli"
 - name: Institute for Cognitive Sciences and Technologies of the Italian National Research Council (CNR), Roma, Italy
   url: "https://www.istc.cnr.it/en/people/andrea-saltelli"
-- name: UPF Barcelona School of Management, Barcelona, Spain. 
+- name: UPF Barcelona School of Management, Barcelona, Spain.
   url: "https://www.bsm.upf.edu/es/profesorado-investigacion/profesorado#andrea-saltelli"
 social:
 - icon: envelope
@@ -21,10 +21,9 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Andrea-Saltelli-2
 superuser: false
-title: Andrea Saltelli 
+title: Andrea Saltelli
 user_groups:
 - Scientific Committee
-- Communication Committee
 
 ---
 
