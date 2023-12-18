@@ -18,5 +18,6 @@ To get a local compile of the website
 # get local website built
 setwd("~/Documents/GitHub/SAMOWebv1")
 library(blogdown)
+build_site()
 serve_site()
 ```
