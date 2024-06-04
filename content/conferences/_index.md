@@ -23,6 +23,13 @@ organized on April 22, 2025 also in Grenoble.</p>
 * :house: **Host Institution**: Université Grenoble Alpes
 * :date: **Date**: April 23-25, 2025
 
+List of plenaries:
+* Tim Bedford (University of Strathclyde, Glasgow)
+* Serguei Kucherenko (Imperial College London)
+* Frances Kuo (University of New South Wales, Sydney)
+* Francesca Pianosi (University of Bristol)
+* Arnald Puy (University of Birmingham)
+
 # Past conferences
 
 ## 2022 Florida
