@@ -21,3 +21,5 @@ library(blogdown)
 build_site()
 serve_site()
 ```
+
+Changes are mostly made in `SAMOWebv1/content/`. As soon as it is pushed to GitHub it will be displayed on the website given it passes the `build_site()`.
