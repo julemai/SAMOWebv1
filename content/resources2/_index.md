@@ -36,7 +36,7 @@ The following references give a good guide to sensitivity analysis and related t
 
 ## Links
 
-:link: [GdR MASCOT-NUM](https://www.gdr-mascotnum.fr/) is a French Research Group dealing with stochastic methods for the analysis of numerical codes. Its main objective is to coordinate research efforts in this scientific area, which is often called design, modeling and analysis of computer experiments.
+:link: [GdR MASCOT-NUM]((https://uq.math.cnrs.fr/) is a French Research Group dealing with stochastic methods for the analysis of numerical codes. Its main objective is to coordinate research efforts in this scientific area, which is often called design, modeling and analysis of computer experiments.
 
 :link: [andreasaltelli.eu](http://www.andreasaltelli.eu/) is the personal page of veteran sensitivity analysis researcher Andrea Saltelli, and hosts many useful resources (inlcuding books) on sensitivity analysis.
 
