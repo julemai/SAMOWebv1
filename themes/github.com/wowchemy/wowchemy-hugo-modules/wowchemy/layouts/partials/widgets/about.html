@@ -8,7 +8,7 @@
   {{ $author = $page.Params.author }}
 {{end}}
 
-{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page_path := (printf "/author/%s" $author) }}
 {{ $person_page := site.GetPage $person_page_path }}
 <!-- {{ $person_page := site.GetPage "/authors/admin" }} -->
 {{ if not $person_page }}
