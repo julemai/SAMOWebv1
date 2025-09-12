@@ -97,16 +97,16 @@ List of plenaries:
 * :date: **Date**: Jun 18-20, 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_2001_Madrid.pdf)
 
-## 2001 Venice
+## 1998 Venice
 
 * :pushpin: **Location**: Venice Ca' Dolfin, Italy
 * :house: **Host Institution**: University of Venice
 * :date: **Date**: Jun 18-20, 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_1998_Venice.pdf)
 
-## 2001 Belgirate
+## 1995 Belgirate
 
-* :pushpin: **Location**: Belgirate, Italy
+* :pushpin: **Location**: Belgirate Villa Carlotta, Italy
 * :house: **Host Institution**: European Commision, Joint Research Centre
 * :date: **Date**: Sep 25-27, 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_95_Belgirate.pdf)
