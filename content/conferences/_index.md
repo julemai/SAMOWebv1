@@ -10,12 +10,7 @@ The SAMO (Sensitivity Analysis of Model Output) conferences are cross-disciplina
 
 This page gives a full list of past and upcoming SAMO conferences, with links to any resources that are still available.
 
-## :rotating_light: **UPCOMING** :rotating_light: 2025 Grenoble
-
-The next SAMO conference will be held in April 23-25, 2025 in
-Grenoble, France. A satellite event for PhD students (<a
-href="https://www.gdr-mascotnum.fr/" target="_blank" rel="noopener">MASCOT NUM</a> PhD day) will be
-organized on April 22, 2025 also in Grenoble.</p>
+## 2025 Grenoble
 
 <a title="Shan Zhao, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:City_of_Grenoble.jpg"><img width="1200" alt="City of Grenoble" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/City_of_Grenoble.jpg/512px-City_of_Grenoble.jpg"></a>
 
