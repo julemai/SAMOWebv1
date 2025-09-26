@@ -17,7 +17,7 @@ This page gives a full list of past and upcoming SAMO conferences, with links to
 * :pushpin: **Location**: Grenoble, France
 * :house: **Host Institution**: Université Grenoble Alpes
 * :date: **Date**: April 23-25, 2025
-* :link: **Links**: [Website](https://samo2025.sciencesconf.org/)
+* :link: **Links**: [Website](https://samo2025.sciencesconf.org/) [Proceedings](PROCCEDINGS_SAMO_2025_Grenoble.pdf)
 
 List of plenaries:
 * Tim Bedford (University of Strathclyde, Glasgow)
