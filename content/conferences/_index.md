@@ -10,9 +10,23 @@ The SAMO (Sensitivity Analysis of Model Output) conferences are cross-disciplina
 
 This page gives a full list of past and upcoming SAMO conferences, with links to any resources that are still available.
 
+
+## 2028 Skopje
+
+![Skopje](2028-skopje.jpg)
+
+* :pushpin: **Location**: Skopje, North Macedonia
+* :house: **Host Institution**: Ss. Cyril and Methodius University
+* :date: **Date**: June 13–16, 2028
+
+List of plenaries: TBD
+
+
+# Past conferences
+
 ## 2025 Grenoble
 
-<a title="Shan Zhao, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:City_of_Grenoble.jpg"><img width="1200" alt="City of Grenoble" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/City_of_Grenoble.jpg/512px-City_of_Grenoble.jpg"></a>
+![Grenobe](2025-grenoble.jpg)
 
 * :pushpin: **Location**: Grenoble, France
 * :house: **Host Institution**: Université Grenoble Alpes
@@ -26,7 +40,7 @@ List of plenaries:
 * Francesca Pianosi (University of Bristol)
 * Arnald Puy (University of Birmingham)
 
-# Past conferences
+
 
 ## 2022 Florida
 
