@@ -19,6 +19,21 @@ This page gives a full list of past and upcoming SAMO conferences, with links to
 * :house: **Host Institution**: Ss. Cyril and Methodius University
 * :date: **Date**: June 13–16, 2028
 
+The SAMO community invites nominations for the first edition of the **Sobol’ Lecture**, a distinction recognizing outstanding contributions in simulation-based analysis, uncertainty quantification, sensitivity analysis, and related methodologies for complex systems. The award honors the scientific legacy of Ilya M. Sobol’ and aims to highlight researchers who have established an influential and internationally visible research program within ten years of completing their PhD.
+
+**Nomination package:**
+*	A nomination letter describing the candidate’s major contributions and their impact on the field;
+*	A curriculum vitae (maximum 4 pages);
+*	A list of up to three significant publications, with a brief description of their importance and impact;
+*	A complete publication list;
+*	Up to two supporting letters from internationally recognized researchers.
+  
+**Submission:** All nomination materials should be submitted as a single PDF file to: clementine.prieur@univ-grenoble-alpes.fr.
+
+**Deadline: 2 April 2027**. The laureate will be invited to deliver the Sobol’ Lecture as a plenary talk at the SAMO 2028 Conference in Skopje, North Macedonia (13–16 June 2028).
+ 	
+**Full description:** PDF
+
 List of plenaries: TBD
 
 
