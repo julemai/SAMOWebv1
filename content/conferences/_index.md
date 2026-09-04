@@ -34,7 +34,6 @@ The SAMO community invites nominations for the first edition of the **Sobol’ L
  	
 **Full description:** [PDF](Sobol-Lecture.pdf)
 
-List of plenaries: TBD
 
 
 # Past conferences
