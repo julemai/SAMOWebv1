@@ -32,7 +32,7 @@ The SAMO community invites nominations for the first edition of the **Sobol’ L
 
 **Deadline: 2 April 2027**. The laureate will be invited to deliver the Sobol’ Lecture as a plenary talk at the SAMO 2028 Conference in Skopje, North Macedonia (13–16 June 2028).
  	
-**Full description:** PDF
+**Full description:** [PDF](Sobol-Lecture.pdf)
 
 List of plenaries: TBD
 
